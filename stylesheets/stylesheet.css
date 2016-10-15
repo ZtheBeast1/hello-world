@@ -57,7 +57,8 @@ a {
   color: #f00;/*changed the color*/
   text-align: center;
   background-color: #159957;
-  background-image: url(images/youngthug.jpg);
+  
+  background-image: url(youngthug.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   }
