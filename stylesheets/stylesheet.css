@@ -54,10 +54,10 @@ a {
       margin-left: 0; } }
 /*changed the color and the background-color*/
 .page-header {
-  color: #000;/*changed the color*/
+  color: #f00;/*changed the color*/
   text-align: center;
   background-color: #ff9933;
-  background-image: url(http://cdn.pcwallart.com/images/gradient-black-to-white-wallpaper-3.jpg); }
+  background-image: url(images/youngthug.jpg); }
 /*edited the background image*/
 @media screen and (min-width: 64em) {
   .page-header {
