@@ -56,7 +56,7 @@ a {
 .page-header {
   color: #f00;/*changed the color*/
   text-align: center;
-  background-color: #ff9933;
+  background-color: #159957;
   background-image: url(images/youngthug.jpg); }
 /*edited the background image*/
 @media screen and (min-width: 64em) {
